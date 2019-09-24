@@ -1,0 +1,3 @@
+/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/STL/queue/build/CMakeFiles/rebuild_cache.dir
+/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/STL/queue/build/CMakeFiles/edit_cache.dir
+/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/STL/queue/build/CMakeFiles/queque.dir

@@ -1,0 +1,3 @@
+/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/STL/vector/build/CMakeFiles/rebuild_cache.dir
+/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/STL/vector/build/CMakeFiles/edit_cache.dir
+/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/STL/vector/build/CMakeFiles/vector.dir

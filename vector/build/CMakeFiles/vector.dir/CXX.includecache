@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/STL/vector/src/vector.cpp
+iostream
+-
+vector
+-
+
