@@ -1,0 +1,3 @@
+/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/rebuild_cache.dir
+/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/edit_cache.dir
+/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/map.dir

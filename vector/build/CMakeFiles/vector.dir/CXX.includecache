@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/STL/vector/src/vector.cpp
+/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/vector/src/vector.cpp
 iostream
 -
 vector

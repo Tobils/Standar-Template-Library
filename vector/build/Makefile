@@ -48,10 +48,10 @@ RM = /home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E remove
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/STL/vector
+CMAKE_SOURCE_DIR = /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/vector
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/STL/vector/build
+CMAKE_BINARY_DIR = /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/vector/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/STL/vector/build/CMakeFiles /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/STL/vector/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/vector/build/CMakeFiles /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/vector/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/STL/vector/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/vector/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

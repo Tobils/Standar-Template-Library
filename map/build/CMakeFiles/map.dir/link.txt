@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0  -rdynamic CMakeFiles/map.dir/src/map.cpp.o  -o ../bin/map 

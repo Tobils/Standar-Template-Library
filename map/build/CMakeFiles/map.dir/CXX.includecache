@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/src/map.cpp
+iostream
+-
+iterator
+-
+map
+-
+unordered_map
+-
+

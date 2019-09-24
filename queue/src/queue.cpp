@@ -15,12 +15,6 @@ void showpq(std::priority_queue <int> gq)
 
 
 int main(){
-    
-    std::vector<int> g1;
-    for(int i=0; i<100; i++){
-        g1.push_back(i);
-    }
-
     std::priority_queue <int> gquize;
     for(int k=1; k<100; k++){
         gquize.push(k);

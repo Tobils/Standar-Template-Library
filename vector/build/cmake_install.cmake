@@ -1,4 +1,4 @@
-# Install script for directory: /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/STL/vector
+# Install script for directory: /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/vector
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/STL/vector/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/vector/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

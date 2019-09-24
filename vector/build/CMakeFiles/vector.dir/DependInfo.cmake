@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/STL/vector/src/vector.cpp" "/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/STL/vector/build/CMakeFiles/vector.dir/src/vector.cpp.o"
+  "/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/vector/src/vector.cpp" "/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/vector/build/CMakeFiles/vector.dir/src/vector.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
