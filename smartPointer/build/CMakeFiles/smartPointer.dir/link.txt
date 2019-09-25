@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0  -rdynamic CMakeFiles/smartPointer.dir/src/smartPointer.cpp.o  -o ../bin/smartPointer 

@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/3.13.3/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/3.13.3/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
@@ -23,33 +23,33 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/3.13.3/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/3.13.3/CompilerIdCXX/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
+Change Dir: /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_62aa1/fast"
-/usr/bin/make -f CMakeFiles/cmTC_62aa1.dir/build.make CMakeFiles/cmTC_62aa1.dir/build
-make[1]: Entering directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_62aa1.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_62aa1.dir/testCCompiler.c.o   -c /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_62aa1
-/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_62aa1.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_62aa1.dir/testCCompiler.c.o  -o cmTC_62aa1 
-make[1]: Leaving directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_75e53/fast"
+/usr/bin/make -f CMakeFiles/cmTC_75e53.dir/build.make CMakeFiles/cmTC_75e53.dir/build
+make[1]: Entering directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_75e53.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_75e53.dir/testCCompiler.c.o   -c /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_75e53
+/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_75e53.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_75e53.dir/testCCompiler.c.o  -o cmTC_75e53 
+make[1]: Leaving directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
+Change Dir: /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_7f490/fast"
-/usr/bin/make -f CMakeFiles/cmTC_7f490.dir/build.make CMakeFiles/cmTC_7f490.dir/build
-make[1]: Entering directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_7f490.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_7f490.dir/CMakeCCompilerABI.c.o   -c /home/ade/.local/lib/python2.7/site-packages/cmake/data/share/cmake-3.13/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_7f490
-/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7f490.dir/link.txt --verbose=1
-/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_7f490.dir/CMakeCCompilerABI.c.o  -o cmTC_7f490 
+Run Build Command:"/usr/bin/make" "cmTC_da55b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_da55b.dir/build.make CMakeFiles/cmTC_da55b.dir/build
+make[1]: Entering directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_da55b.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_da55b.dir/CMakeCCompilerABI.c.o   -c /home/ade/.local/lib/python2.7/site-packages/cmake/data/share/cmake-3.13/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_da55b
+/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_da55b.dir/link.txt --verbose=1
+/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_da55b.dir/CMakeCCompilerABI.c.o  -o cmTC_da55b 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper
@@ -59,23 +59,23 @@ Thread model: posix
 gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.11) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_7f490' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cc6HULx5.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_7f490 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_7f490.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
-make[1]: Leaving directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_da55b' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccIiQdt8.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_da55b /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_da55b.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+make[1]: Leaving directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_7f490/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_7f490.dir/build.make CMakeFiles/cmTC_7f490.dir/build]
-  ignore line: [make[1]: Entering directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_7f490.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_7f490.dir/CMakeCCompilerABI.c.o   -c /home/ade/.local/lib/python2.7/site-packages/cmake/data/share/cmake-3.13/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_7f490]
-  ignore line: [/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7f490.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_7f490.dir/CMakeCCompilerABI.c.o  -o cmTC_7f490 ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_da55b/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_da55b.dir/build.make CMakeFiles/cmTC_da55b.dir/build]
+  ignore line: [make[1]: Entering directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_da55b.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_da55b.dir/CMakeCCompilerABI.c.o   -c /home/ade/.local/lib/python2.7/site-packages/cmake/data/share/cmake-3.13/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_da55b]
+  ignore line: [/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_da55b.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_da55b.dir/CMakeCCompilerABI.c.o  -o cmTC_da55b ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper]
@@ -85,13 +85,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.11) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_7f490' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cc6HULx5.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_7f490 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_7f490.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_da55b' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccIiQdt8.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_da55b /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_da55b.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/cc6HULx5.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccIiQdt8.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -109,7 +109,7 @@ Parsed C implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_7f490] ==> ignore
+    arg [cmTC_da55b] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o] ==> ignore
@@ -121,7 +121,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/5/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/5/../../..]
-    arg [CMakeFiles/cmTC_7f490.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_da55b.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -149,17 +149,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
+Change Dir: /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_54b07/fast"
-/usr/bin/make -f CMakeFiles/cmTC_54b07.dir/build.make CMakeFiles/cmTC_54b07.dir/build
-make[1]: Entering directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_54b07.dir/feature_tests.c.o
-/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_54b07.dir/feature_tests.c.o   -c /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_54b07
-/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_54b07.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_54b07.dir/feature_tests.c.o  -o cmTC_54b07 
-make[1]: Leaving directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_c9a93/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c9a93.dir/build.make CMakeFiles/cmTC_c9a93.dir/build
+make[1]: Entering directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c9a93.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_c9a93.dir/feature_tests.c.o   -c /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_c9a93
+/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c9a93.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_c9a93.dir/feature_tests.c.o  -o cmTC_c9a93 
+make[1]: Leaving directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -169,17 +169,17 @@ make[1]: Leaving directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAK
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
+Change Dir: /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_646ec/fast"
-/usr/bin/make -f CMakeFiles/cmTC_646ec.dir/build.make CMakeFiles/cmTC_646ec.dir/build
-make[1]: Entering directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_646ec.dir/feature_tests.c.o
-/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_646ec.dir/feature_tests.c.o   -c /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_646ec
-/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_646ec.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_646ec.dir/feature_tests.c.o  -o cmTC_646ec 
-make[1]: Leaving directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_4e0a1/fast"
+/usr/bin/make -f CMakeFiles/cmTC_4e0a1.dir/build.make CMakeFiles/cmTC_4e0a1.dir/build
+make[1]: Entering directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4e0a1.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_4e0a1.dir/feature_tests.c.o   -c /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_4e0a1
+/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4e0a1.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_4e0a1.dir/feature_tests.c.o  -o cmTC_4e0a1 
+make[1]: Leaving directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -189,17 +189,17 @@ make[1]: Leaving directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAK
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
+Change Dir: /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_5e6fd/fast"
-/usr/bin/make -f CMakeFiles/cmTC_5e6fd.dir/build.make CMakeFiles/cmTC_5e6fd.dir/build
-make[1]: Entering directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_5e6fd.dir/feature_tests.c.o
-/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_5e6fd.dir/feature_tests.c.o   -c /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_5e6fd
-/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5e6fd.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_5e6fd.dir/feature_tests.c.o  -o cmTC_5e6fd 
-make[1]: Leaving directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_e92b0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e92b0.dir/build.make CMakeFiles/cmTC_e92b0.dir/build
+make[1]: Entering directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e92b0.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_e92b0.dir/feature_tests.c.o   -c /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_e92b0
+/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e92b0.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_e92b0.dir/feature_tests.c.o  -o cmTC_e92b0 
+make[1]: Leaving directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -207,30 +207,30 @@ make[1]: Leaving directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAK
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
+Change Dir: /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_d3b96/fast"
-/usr/bin/make -f CMakeFiles/cmTC_d3b96.dir/build.make CMakeFiles/cmTC_d3b96.dir/build
-make[1]: Entering directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_d3b96.dir/testCXXCompiler.cxx.o
-/usr/bin/c++     -o CMakeFiles/cmTC_d3b96.dir/testCXXCompiler.cxx.o -c /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_d3b96
-/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d3b96.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_d3b96.dir/testCXXCompiler.cxx.o  -o cmTC_d3b96 
-make[1]: Leaving directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_89d6f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_89d6f.dir/build.make CMakeFiles/cmTC_89d6f.dir/build
+make[1]: Entering directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_89d6f.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_89d6f.dir/testCXXCompiler.cxx.o -c /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_89d6f
+/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_89d6f.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_89d6f.dir/testCXXCompiler.cxx.o  -o cmTC_89d6f 
+make[1]: Leaving directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
+Change Dir: /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_01030/fast"
-/usr/bin/make -f CMakeFiles/cmTC_01030.dir/build.make CMakeFiles/cmTC_01030.dir/build
-make[1]: Entering directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_01030.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++     -o CMakeFiles/cmTC_01030.dir/CMakeCXXCompilerABI.cpp.o -c /home/ade/.local/lib/python2.7/site-packages/cmake/data/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_01030
-/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_01030.dir/link.txt --verbose=1
-/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_01030.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_01030 
+Run Build Command:"/usr/bin/make" "cmTC_1b19f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1b19f.dir/build.make CMakeFiles/cmTC_1b19f.dir/build
+make[1]: Entering directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_1b19f.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTC_1b19f.dir/CMakeCXXCompilerABI.cpp.o -c /home/ade/.local/lib/python2.7/site-packages/cmake/data/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_1b19f
+/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1b19f.dir/link.txt --verbose=1
+/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_1b19f.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_1b19f 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper
@@ -240,23 +240,23 @@ Thread model: posix
 gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.11) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_01030' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cc30cJdB.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_01030 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_01030.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
-make[1]: Leaving directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_1b19f' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cc31BQoz.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_1b19f /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_1b19f.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+make[1]: Leaving directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_01030/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_01030.dir/build.make CMakeFiles/cmTC_01030.dir/build]
-  ignore line: [make[1]: Entering directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_01030.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_01030.dir/CMakeCXXCompilerABI.cpp.o -c /home/ade/.local/lib/python2.7/site-packages/cmake/data/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_01030]
-  ignore line: [/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_01030.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_01030.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_01030 ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_1b19f/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_1b19f.dir/build.make CMakeFiles/cmTC_1b19f.dir/build]
+  ignore line: [make[1]: Entering directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_1b19f.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_1b19f.dir/CMakeCXXCompilerABI.cpp.o -c /home/ade/.local/lib/python2.7/site-packages/cmake/data/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_1b19f]
+  ignore line: [/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1b19f.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_1b19f.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_1b19f ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper]
@@ -266,13 +266,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.11) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_01030' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cc30cJdB.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_01030 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_01030.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_1b19f' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cc31BQoz.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_1b19f /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_1b19f.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/cc30cJdB.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/cc31BQoz.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -290,7 +290,7 @@ Parsed CXX implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_01030] ==> ignore
+    arg [cmTC_1b19f] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o] ==> ignore
@@ -302,7 +302,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/5/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/5/../../..]
-    arg [CMakeFiles/cmTC_01030.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_1b19f.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -328,17 +328,17 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++1z] compiler features compiled with the following output:
-Change Dir: /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
+Change Dir: /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_88fb4/fast"
-/usr/bin/make -f CMakeFiles/cmTC_88fb4.dir/build.make CMakeFiles/cmTC_88fb4.dir/build
-make[1]: Entering directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_88fb4.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_88fb4.dir/feature_tests.cxx.o -c /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_88fb4
-/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_88fb4.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_88fb4.dir/feature_tests.cxx.o  -o cmTC_88fb4 
-make[1]: Leaving directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_35027/fast"
+/usr/bin/make -f CMakeFiles/cmTC_35027.dir/build.make CMakeFiles/cmTC_35027.dir/build
+make[1]: Entering directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_35027.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_35027.dir/feature_tests.cxx.o -c /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_35027
+/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_35027.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_35027.dir/feature_tests.cxx.o  -o cmTC_35027 
+make[1]: Leaving directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -401,17 +401,17 @@ make[1]: Leaving directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAK
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
+Change Dir: /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_a8498/fast"
-/usr/bin/make -f CMakeFiles/cmTC_a8498.dir/build.make CMakeFiles/cmTC_a8498.dir/build
-make[1]: Entering directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_a8498.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_a8498.dir/feature_tests.cxx.o -c /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_a8498
-/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a8498.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_a8498.dir/feature_tests.cxx.o  -o cmTC_a8498 
-make[1]: Leaving directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_e8c38/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e8c38.dir/build.make CMakeFiles/cmTC_e8c38.dir/build
+make[1]: Entering directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_e8c38.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_e8c38.dir/feature_tests.cxx.o -c /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_e8c38
+/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e8c38.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_e8c38.dir/feature_tests.cxx.o  -o cmTC_e8c38 
+make[1]: Leaving directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -474,17 +474,17 @@ make[1]: Leaving directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAK
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
+Change Dir: /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_ca637/fast"
-/usr/bin/make -f CMakeFiles/cmTC_ca637.dir/build.make CMakeFiles/cmTC_ca637.dir/build
-make[1]: Entering directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_ca637.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_ca637.dir/feature_tests.cxx.o -c /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_ca637
-/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ca637.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_ca637.dir/feature_tests.cxx.o  -o cmTC_ca637 
-make[1]: Leaving directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_fce7f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_fce7f.dir/build.make CMakeFiles/cmTC_fce7f.dir/build
+make[1]: Entering directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_fce7f.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_fce7f.dir/feature_tests.cxx.o -c /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_fce7f
+/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fce7f.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_fce7f.dir/feature_tests.cxx.o  -o cmTC_fce7f 
+make[1]: Leaving directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -547,17 +547,17 @@ make[1]: Leaving directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAK
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
+Change Dir: /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_079be/fast"
-/usr/bin/make -f CMakeFiles/cmTC_079be.dir/build.make CMakeFiles/cmTC_079be.dir/build
-make[1]: Entering directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_079be.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_079be.dir/feature_tests.cxx.o -c /home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_079be
-/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_079be.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_079be.dir/feature_tests.cxx.o  -o cmTC_079be 
-make[1]: Leaving directory '/home/ade/Documents/develope-tobil/ALEXA/SMART-SPEAKER/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_8a188/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8a188.dir/build.make CMakeFiles/cmTC_8a188.dir/build
+make[1]: Entering directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8a188.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_8a188.dir/feature_tests.cxx.o -c /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_8a188
+/home/ade/.local/lib/python2.7/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8a188.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_8a188.dir/feature_tests.cxx.o  -o cmTC_8a188 
+make[1]: Leaving directory '/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/map/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers

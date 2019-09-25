@@ -7,7 +7,6 @@ int main(){
     
     const char * data_1 = "suhada ";
     for(int i=0; i<100; i++){
-        
         list_data.push_back(data_1);
         g1.push_back(i);
     }
@@ -20,7 +19,7 @@ int main(){
 
     std::cout<<"\n \n \n";
 
-    // print out menggunakan bein dan end.
+    // print out menggunakan begin dan end.
     for(auto i = g1.begin(); i != g1.end(); ++i){
         std::cout<<*i<< " ";
     }
