@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/nameSpace.dir/src/test-example.cpp.o  -o ../bin/nameSpace -lstdc++ 

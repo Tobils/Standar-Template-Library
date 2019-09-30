@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/example.h
+iostream
+-
+
+/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/namespace/src/test-example.cpp
+example.h
+/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/namespace/src/example.h
+iostream
+-
+
