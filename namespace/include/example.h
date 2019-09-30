@@ -1,30 +1,15 @@
 namespace first
 {
-    int val = 500;
+
 }
 
-namespace ns1 
-{
-    int value() {return 5;}
-}
-
-namespace ns2 
-{
-    const double x = 100;
-    double value(){ return 2*x;}
-}
-
-// class and namespace #1
-#include <iostream>
 namespace ns
 {
     class geek
     {
         public:
-            void display()
-            {
-                std::cout<<" ns::geek::dsiplay()\n";
-            };
+            void display();
+            void tampilkan();
     };
 }
 
@@ -37,10 +22,7 @@ namespace ns2
 class ns2::geek
 {
     public:
-    void display()
-    {
-        std::cout<<"ns2::geek::display()\n";
-    }
+    void display();
 };
 
 
@@ -55,16 +37,27 @@ namespace ns3
     };
 }
 
-void ns3::geek::display()
+
+// nested namespace
+namespace name1
 {
-    std::cout<<"ns3::geek::display()\n";
+    namespace name2
+    {
+        namespace name3
+        {
+            int var;
+        }
+    }
 }
 
-void ns3::display()
-{
-    std::cout<<"ns3::display()\n";
+
+// nested namesapce and class
+
+namespace ade{
+    namespace suhada{
+        class tobil{
+            public:
+                void display();
+        };
+    }
 }
-
-
-
-

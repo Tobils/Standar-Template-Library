@@ -7,12 +7,16 @@
 #IncludeRegexTransform: 
 
 ../include/example.h
+
+/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/namespace/src/example.cpp
+example.h
+/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/namespace/src/example.h
 iostream
 -
 
 /home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/namespace/src/test-example.cpp
-example.h
-/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/namespace/src/example.h
+example.cpp
+/home/ade/Documents/develope-tobil/dev-tobil-c++/Standar-Template-Library/namespace/src/example.cpp
 iostream
 -
 

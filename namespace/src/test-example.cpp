@@ -1,4 +1,4 @@
-#include "example.h"
+#include "example.cpp"
 #include <iostream>
 
 // global variable
@@ -12,32 +12,27 @@ int main()
     const char* bagian_3 = "basic class dan namespace #1";
     const char* bagian_4 = "basic class dan namespace #2";
     const char* bagian_5 = "basic class dan namespace #3";
+    const char* bagian_6 = "nested namespace and alias #4";
     const char* batas = "===========================";
-    // local variable
-    int val = 300;
+   
     std::cout<<batas<<std::endl<<basic_namespace<<std::endl;
     std::cout<<first::val<<std::endl;
 
-    // access value
-    std::cout<<batas<<bagian_2<<std::endl;
-    std::cout<<ns1::value() << std::endl <<ns2::value()<<std::endl<<ns2::x<<std::endl;
+    std::cout<<batas<<std::endl<<bagian_2<<std::endl;
+    ns::geek obj1;
+    std::cout<<ns::value<<"\t"<<std::endl;
+    obj1.display();
+    obj1.tampilkan();
 
-    // namespace and class 1
-    std::cout<<batas<<bagian_3<<std::endl;
-    ns::geek obj;
-    obj.display();
-
-    // namespace and class 2
-    std::cout<<batas<<bagian_4<<std::endl;
+    std::cout<<batas<<std::endl<<bagian_3<<std::endl;
     ns2::geek obj2;
+    std::cout<<"x : "<<ns2::x<<"\t"<<ns2::value()<<std::endl;
     obj2.display();
+    ns2::display();
 
-
-    // namespace and class 3
-    std::cout<<batas<<bagian_5<<std::endl;
-    ns3::geek obj3;
-    ns3::display();
-    obj3.display();
+    std::cout<<batas<<std::endl<<bagian_4<<std::endl;
+    ade::suhada::tobil objTobil;
+    objTobil.display();
 
     return 0;
 }

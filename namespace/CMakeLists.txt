@@ -8,6 +8,7 @@ project(nameSpace)
 #set(CMAKE_CXX_COMPILER /opt/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-g++)
 
 set(SOURCE_FILE
+    #src/example.cpp
     src/test-example.cpp
 	)
 
